@@ -26,7 +26,7 @@ namespace ItWorkedForSomeReason
         {
             this.InitializeComponent();
 
-            var i = 0;
+            var j = 0;
         }
     }
 }
